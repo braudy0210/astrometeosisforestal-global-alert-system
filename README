@@ -1,0 +1,46 @@
+# Astrometeosisforestal Global Alert System (AGAS)
+
+## Sistema Mundial de Alertas Automatizadas
+
+Astrometeosisforestal Global Alert System (AGAS) es una plataforma de monitoreo y alertas en tiempo real diseñada para detectar y analizar fenómenos naturales y astronómicos a nivel mundial.
+
+## Características
+
+- 🌍 Meteorología en tiempo real
+- 🌀 Huracanes
+- 🌀 Tifones
+- 🌪 Tornados
+- 🌧 Tormentas severas
+- 🌊 Tsunamis
+- 🌍 Terremotos
+- 🌋 Volcanes activos
+- 🔥 Incendios forestales
+- 🌌 Astronomía
+- ☀️ Clima espacial
+- 🛰️ Imágenes satelitales
+- 🤖 Inteligencia Artificial
+- 📡 Alertas automáticas 24/7
+
+## Tecnologías
+
+- Node.js
+- NestJS
+- TypeScript
+- PostgreSQL
+- Redis
+- Docker
+- DigitalOcean
+- AWS
+- Google Cloud
+
+## Estado
+
+🚧 En desarrollo.
+
+## Desarrollador
+
+Arismendy Junior Hernández Carrasco
+
+## Licencia
+
+MIT License
